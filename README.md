@@ -1,3 +1,5 @@
+<img src="https://data.whicdn.com/images/283093883/original.gif" alt="Kittichote Kamalapirat GitHub README header image">
+
 <h1 align="center">Hi 👋, I'm Kittichote Kamalapirat (Shane)</h1>
 <h3 align="center">A passionate Front-end-focused Full-stack developer from Thailand</h3>
 
