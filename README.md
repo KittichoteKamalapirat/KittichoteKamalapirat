@@ -42,9 +42,9 @@ My name is Kittichote Kamalapirat. You can call me Shane. I love create beautifu
 
 <td>
 
-<img width="32.5%" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=kittichotekamalapirat&show_icons=true&locale=en&layout=compact" alt="kittichotekamalapirat" />
-<img width="32.5%" height="160"  src="https://github-readme-stats.vercel.app/api?username=kittichotekamalapirat&show_icons=true&locale=en" alt="kittichotekamalapirat" />
-<img width="32.5%" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=kittichotekamalapirat&" alt="kittichotekamalapirat" />
+<img  height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=kittichotekamalapirat&show_icons=true&locale=en&layout=compact" alt="kittichotekamalapirat" />
+<img  height="160"  src="https://github-readme-stats.vercel.app/api?username=kittichotekamalapirat&show_icons=true&locale=en" alt="kittichotekamalapirat" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=kittichotekamalapirat&" alt="kittichotekamalapirat" />
 
 </td>
 <td>
