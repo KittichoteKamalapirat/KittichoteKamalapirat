@@ -35,8 +35,9 @@ My name is Kittichote Kamalapirat. You can call me Shane. I love create beautifu
 
 ## Technologies
 
-
 <!-- github stats -->
+
+
 <img width="32.5%" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=kittichotekamalapirat&show_icons=true&locale=en&layout=compact" alt="kittichotekamalapirat" />
 <img width="32.5%" height="160"  src="https://github-readme-stats.vercel.app/api?username=kittichotekamalapirat&show_icons=true&locale=en" alt="kittichotekamalapirat" />
 <img width="32.5%" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=kittichotekamalapirat&" alt="kittichotekamalapirat" />
@@ -47,6 +48,7 @@ My name is Kittichote Kamalapirat. You can call me Shane. I love create beautifu
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kittichotekamalapirat" alt="kittichotekamalapirat" /></a> </p> -->
 
   
+ <!--  
 <ul>
   <li>
   <b>Languages</b>:
@@ -122,6 +124,54 @@ My name is Kittichote Kamalapirat. You can call me Shane. I love create beautifu
   </li>
   </ul>
 
+
+<br/>
+<br/>
+ -->
+
+### **Having fun with these stack 👨🏽‍💻**
+
+<br/>
+<!-- HTML, CSS, JS -->
+<div>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+<!-- Framework -->
+<div>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
+<div>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</div>
+<!-- DevOps -->
+<div>
+</div>
+
+<!-- Tools -->
+<div>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</div>
+<br/>
+
+### and more >w<
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+
+<br/>
+
+
+
+<!-- Technologies endsssssssss-->
 ---
 
 <h3 align="left">Support:</h3>
