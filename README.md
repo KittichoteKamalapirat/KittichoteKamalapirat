@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="right" src="https://data.whicdn.com/images/283093883/original.gif" alt="Kittichote Kamalapirat GitHub README header image">
+<img width="50%" align="right" src="https://data.whicdn.com/images/283093883/original.gif" alt="Kittichote Kamalapirat GitHub README header image">
 
 <h2 align="left">Nice to meet you!</h2>
 <h3 >I am a passionate Frontend-focused Full-stack developer from Thailand 🇹🇭 </h3>
