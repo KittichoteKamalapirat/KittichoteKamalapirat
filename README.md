@@ -3,17 +3,22 @@
 <h1 >👋 Hi, this is Shane</h1>
 
 <br>
+<h2 >Nice to meet you!</h2>
 
 <img width="50%" align="right" src="https://data.whicdn.com/images/283093883/original.gif" alt="Kittichote Kamalapirat GitHub README header image">
 
-<h2 align="left">Nice to meet you!</h2>
-<h3 >I am a passionate Frontend-focused Full-stack developer from Thailand 🇹🇭 </h3>
+<div align="left">
+ <h3 >I am a passionate Frontend-focused Full-stack developer from Thailand 🇹🇭 </h3>
 My name is Kittichote Kamalapirat. You can call me Shane. I love create beautiful user interface and working on an exciting ideas that impact people lives.
 
 
 - 📫 How to reach me **kittichoteshane@gmail.com**
 - 🔗 [My website](https://kittishane.com/)
 - 📄  [My CV](https://cookknow.s3.ap-southeast-1.amazonaws.com/dev-port/resume.pdf)
+
+ 
+</div> 
+
 
 
 
