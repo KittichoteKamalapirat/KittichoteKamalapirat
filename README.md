@@ -222,6 +222,16 @@ My name is Kittichote Kamalapirat. You can call me Shane. I love create beautifu
 </a>
 </p>
 
+
+<p align="center">
+<a href="https://github.com/KittichoteKamalapirat/mugiwara">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=KittichoteKamalapirat&repo=mugiwara&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+</p>
+
+
+
 ---
 
 <!-- Connect with me startsssssssssssssss-->
