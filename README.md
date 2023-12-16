@@ -8,8 +8,10 @@
 <img width="50%" align="right" src="https://data.whicdn.com/images/283093883/original.gif" alt="Kittichote Kamalapirat GitHub README header image">
 
 <div align="left">
- <h3 >I am a passionate Frontend-focused Full-stack developer from Thailand 🇹🇭 </h3>
-My name is Kittichote Kamalapirat. You can call me Shane. I love create beautiful user interface and working on an exciting ideas that impact people lives.
+ <h3 >I am a Frontend-focused Full-stack developer from Thailand 🇹🇭 </h3>
+ <p>I love creating intuitive User Experience. I code during my full-time job as well as my free-time.</p> 
+ <p>My current day-to-day technologies include TypeScript, Python, React, Tailwind, Postgres, GraphQL, and Docker.</p> 
+ <p>Besides staring at my computer when coding, I also stare at it when reading manga (Recommend "Chainsaw man" and "Summer Time Rendering" this year)</p> 
 
 
 - 📫 How to reach me **kittichoteshane@gmail.com**
