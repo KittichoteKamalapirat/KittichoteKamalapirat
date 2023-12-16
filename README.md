@@ -16,12 +16,10 @@
 
 - 📫 How to reach me **kittichoteshane@gmail.com**
 - 🔗 [My website](https://kittishane.com/)
-- 📄  [My CV](https://cookknow.s3.ap-southeast-1.amazonaws.com/dev-port/resume.pdf)
+  <!--- 📄  [My CV](https://cookknow.s3.ap-southeast-1.amazonaws.com/dev-port/resume.pdf) -->
 
  
 </div> 
-
-
 
 
 <!-- Connect with me startssssssssssssssss-->
